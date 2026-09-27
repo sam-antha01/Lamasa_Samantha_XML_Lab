@@ -1,0 +1,9 @@
+XML Lab Activity – Reflection
+
+In this laboratory activity, I learned how to create and validate a basic XML document. I applied the basic rules of XML such as using one root element, properly opening and closing tags, maintaining the correct nesting of elements, and using matching tag names. I also learned that XML is case-sensitive, so the opening and closing tags must be written correctly.
+
+XML needs a single root element because it provides one main starting point for the entire document and organizes all other elements into a proper structure. This makes the XML document easier for computers and applications to read and process.
+
+XML ensures interoperability because it uses a standardized text-based structure that can be understood by different operating systems, programming languages, and applications. Because of this, data can be stored, transferred, and processed between different systems without depending on a specific software or platform.
+
+Overall, validating the XML helped me understand the importance of following the correct syntax and structure. It also showed me that even small errors in XML tags can cause validation problems.
